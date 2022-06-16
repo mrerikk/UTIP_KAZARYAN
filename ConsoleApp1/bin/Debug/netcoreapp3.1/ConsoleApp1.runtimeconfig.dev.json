@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Crikk\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Crikk\\.nuget\\packages"
+    ]
+  }
+}
